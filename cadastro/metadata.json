@@ -1,7 +1,0 @@
-{
-  "name": "EcoCRM - Gestão de Vendas Energia",
-  "description": "Sistema de CRM especializado para vendedores de soluções de desconto em conta de luz, com integração de IA para análise de leads e gestão de retornos.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
